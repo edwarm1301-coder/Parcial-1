@@ -29,3 +29,7 @@ Al utilizar Get y Set el administrador tomara el rol de gestor en el MIB, el adm
 # PUNTO DOS 
 
 Identificar y explicar cada uno de los campos de la cabecera Ethernet. ¿Qué significa el valor 0x0800 en el campo "Tipo"?
+Respuesta:
+El valor 0x800 es la asiganción que se le da al protoclo ipv4 en el encabezado del segmento de TCP
+B. En el encabezado IPv4, ¿Que significa los campos protocolo y TTL? ¿porque es importante  el TTL en red?
+Respuesra
